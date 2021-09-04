@@ -1,0 +1,10 @@
+.perPic{
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	border: 2px solid #748F75;
+}
+img{
+	height: 198px;
+}
